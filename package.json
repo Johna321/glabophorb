@@ -17,5 +17,14 @@
 		"tailwindcss": "^3.4.3",
 		"vite": "^5.0.3"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"@tiptap/core": "^2.3.0",
+		"@tiptap/extension-subscript": "^2.3.0",
+		"@tiptap/extension-superscript": "^2.3.0",
+		"@tiptap/extension-typography": "^2.3.0",
+		"@tiptap/html": "^2.3.0",
+		"@tiptap/pm": "^2.3.0",
+		"@tiptap/starter-kit": "^2.3.0"
+	}
 }
